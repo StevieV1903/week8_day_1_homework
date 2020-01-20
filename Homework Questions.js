@@ -14,9 +14,10 @@
 // The client (front-end) uses the fetch method and payload within the GamesService.js to communicate with the server.
 
 // What optional second argument does the fetch method take? And what is it used for in this application? Hint: See Using Fetch on the MDN docs
-// You can optionally pass in an init options object as the second argument.
-
+// You can optionally pass in an init options object as the second argument and in this case it is passing the BaseURL?
 
 // Which of the games API routes does the front-end application consume (i.e. make requests to)?
+// get games, post games and delete games.
 
 // What are we using the MongoDB Driver for?
+// I am not clear about this? I couldn't find the driver in any of the files? Is this the MongoClient?
